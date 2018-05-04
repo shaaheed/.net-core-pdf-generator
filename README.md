@@ -1,2 +1,2 @@
 # .net-core-pdf-generator
-A .net core pdf generator that uses WkHtmlToPdf wrapper!
+A practical example of .net core 2 pdf generator that uses WkHtmlToPdf wrapper!
